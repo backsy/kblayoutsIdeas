@@ -1,8 +1,11 @@
  # Copied some ideas:
  
  CapsLock+hjkl -> the arrows
+ 
  CapsLock+Spacebar -> Return
+ 
  CapsLock+ui -> PgUp and PgDn
+ 
  CapsLock+yo -> Backspace and Delete
  
  Not sure I need PgUp/Dn... also dvorak hjkl makes no sense alh why start with h? So rather do jkl;.
